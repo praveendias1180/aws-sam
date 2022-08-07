@@ -60,3 +60,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # Amazon API Gateway
 
 ![](api-gateway.png)
+
+# Test Cognito Authorizer
+
+![](test-auth.png)
