@@ -48,3 +48,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # AWS  Cognito User Pools
 
 ![](user-pools.png)
+
+# Amazon DynamoDb
+
+![](dynamodb.png)
