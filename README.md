@@ -32,3 +32,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 ![](sam-init.png)
 
 ![](sam-init-t.png)
+
+# SAM Local
+
+![](sam-local.png)
