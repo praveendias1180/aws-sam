@@ -52,3 +52,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # Amazon DynamoDb
 
 ![](dynamodb.png)
+
+# AWS Lambda
+
+![](lambda-result.png)
