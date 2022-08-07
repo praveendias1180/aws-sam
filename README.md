@@ -17,3 +17,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 
 ![](7sam.png)
 
+# HTTP API
+
+![](http-api.png)
+
