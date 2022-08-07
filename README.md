@@ -13,3 +13,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 
 ![](IaaC.png)
 
+# 7 Serverless Resource Types
+
+![](7sam.png)
+
