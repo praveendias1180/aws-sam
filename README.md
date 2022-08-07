@@ -24,3 +24,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # SAM CLI
 
 ![](sam-cli.png)
+
+# SAM Init
+
+![](sam-init.png)
