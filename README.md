@@ -56,3 +56,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # AWS Lambda
 
 ![](lambda-result.png)
+
+# Amazon API Gateway
+
+![](api-gateway.png)
