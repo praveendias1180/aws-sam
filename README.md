@@ -25,6 +25,10 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 
 ![](sam-cli.png)
 
+![](sam-term.png)
+
 # SAM Init
 
 ![](sam-init.png)
+
+![](sam-init-t.png)
