@@ -9,3 +9,7 @@
 
 AWS SAM: AWS (S)erverless (A)pplication (M)odel 
 
+# SAM Templates
+
+![](IaaC.png)
+
