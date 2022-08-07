@@ -40,3 +40,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # SAM Debug
 
 ![](sam-debug.png)
+
+# Application Architecture
+
+![](app-arc.png)
