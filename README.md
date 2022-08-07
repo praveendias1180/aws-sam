@@ -36,3 +36,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # SAM Local
 
 ![](sam-local.png)
+
+# SAM Debug
+
+![](sam-debug.png)
