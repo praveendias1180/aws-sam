@@ -44,3 +44,7 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # Application Architecture
 
 ![](app-arc.png)
+
+# AWS  Cognito User Pools
+
+![](user-pools.png)
