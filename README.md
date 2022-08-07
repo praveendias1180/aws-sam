@@ -64,3 +64,9 @@ AWS SAM: AWS (S)erverless (A)pplication (M)odel
 # Test Cognito Authorizer
 
 ![](test-auth.png)
+
+# Completed
+
+*Could not connect to maps.arcgis.com even after registration. Skipped the step.
+
+![](completed.png)
